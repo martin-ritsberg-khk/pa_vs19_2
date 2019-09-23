@@ -28,3 +28,11 @@ koosta muudatud failile kirjeldus
 lükka muudatused koos kirjeldusega kaugreposse
 
 ```git push -uf origin master```
+
+* git kasutamine PHPStorm keskonnas
+
+```VCS -> Commit (Ctrl+K)```
+
+* Vali faillid, mille sisu on vaja commitida
+* Määra vastav kirjeldus
+* Committi ära -> Commit and Push
