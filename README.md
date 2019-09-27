@@ -36,3 +36,8 @@ lükka muudatused koos kirjeldusega kaugreposse
 * Vali faillid, mille sisu on vaja commitida
 * Määra vastav kirjeldus
 * Committi ära -> Commit and Push
+### 27.09.2019
+* muutujatega tehete tegemine
+* sisseehitatud funksioonide kasutamine
+* ctrl+click-iga functsioonide ja muutujate lähtekohtadele navigeermine
+* php.net dokumentatsiooni kasutamine
