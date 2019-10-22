@@ -41,3 +41,16 @@ lükka muudatused koos kirjeldusega kaugreposse
 * sisseehitatud funksioonide kasutamine
 * ctrl+click-iga functsioonide ja muutujate lähtekohtadele navigeermine
 * php.net dokumentatsiooni kasutamine
+
+### 09.10.2019
+* Aritmeetilised tehted
+* Muutujad
+
+### 10.10.2019
+* Matemaatilised tehted
+* Tingimuslaused
+
+### 22.10.2019
+* Funksioonide ja tsüklite kordamine
+* Primaararvude leidmine
+* Tabeli loomine funksioonide ja tsüklite abil
